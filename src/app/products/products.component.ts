@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Product } from '../models/productmodel';
+import { Product } from '../models/product.model';
+
 
 @Component({
   selector: 'app-products',
@@ -52,13 +53,14 @@ export class ProductsComponent  {
 
 
 
-  productsSentByChild=[];
-  productCount:number=0;
+    productsSentByChild=[];
+    productCount:number=0;
 
-  getProductDetailsFromChild(productTitle){
-    this.productsSentByChild.push(productTitle);
-    this.productCount++;
-  }
+    getProductDetailsFromChild(productTitle){
 
+     
+      this.productsSentByChild.push(productTitle);
+      this.productCount++;
+    }
 
 }

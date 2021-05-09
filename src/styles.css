@@ -1,1 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8N1--aj-442lEQxU4ZjXppao-aGBfDYi4g&usqp=CAU');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+    
+}
