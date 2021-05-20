@@ -9,6 +9,9 @@ import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 import { ProductsComponent } from './products/products.component';
 import { RegisterComponent } from './register/register.component';
 import { TelevisionsComponent } from './televisions/televisions.component';
+import { TestComponent } from './test/test.component';
+import { UserDetailsComponent } from './user-details/user-details.component';
+import { UsersComponent} from './users/users.component';
 
 
 const routes: Routes = [
@@ -17,10 +20,15 @@ const routes: Routes = [
   { path:'register',component:RegisterComponent},
   { path:'login',component:LoginComponent},
   { path:'contactus',component:ContactusComponent},
+  {path:'test',component:TestComponent},
+  {path: 'users',component:UsersComponent},
+  {path: 'userdetails/:id',component:UserDetailsComponent},
   { path:'products',component:ProductsComponent,children:[
     {path:'mobiles',component:MobilesComponent},
-    { path:"bikes",component:BikesComponent},
-    {path:"televisions",component:TelevisionsComponent},
+    { path:'bikes',component:BikesComponent},
+    
+    {path:'televisions',component:TelevisionsComponent},
+    
     {path:'',redirectTo:'/products/mobiles',pathMatch:'full'}
   ]},
   { path:'', redirectTo:'/login',pathMatch:'full'},

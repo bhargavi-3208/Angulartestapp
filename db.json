@@ -1,0 +1,96 @@
+{
+    "users":[
+        {
+            "id":"01",
+            "email":"ravi@gmail.com",
+            "name":"Ravi",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozrONcLzw-I2ZeH3B6U1s47Nb-jJRG6zVGw&usqp=CAU",
+            "address":"Hno. 1, Road No. 1, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+            "profession":"Data Scientist",
+            "mobile": "9393456784"
+        },
+        {
+            "id":"02",
+            "email":"teja@gmail.com",
+            "name":"Teja",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4TdRSnLlXuMx3LSPlj0NBpPQ577wBbahOzw&usqp=CAU",
+            "address":"Hno. 2, Road No. 1, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+            "profession":"Asst Manager",
+            "mobile": "9393456435" 
+        },
+        {
+            "id":"03",
+            "email":"kiran@gmail.com",
+            "name":"Kiran",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8u-OdRMPrjjgYkfkHDHPGQHCpgWfy6ss2lg&usqp=CAU",
+            "address":"Hno. 3, Road No. 1, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+
+            "profession":"Technical asst",
+            "mobile": "9393456545"
+        },
+        {
+            "id":"04",
+            "email":"rekha@gmail.com",
+            "name":"Rekha",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShPQZY_WT5V7Q8zbhw-L5gpPuMYEU1AHnfw&usqp=CAU",
+            "address":"Hno. 4, Road No. 1, MIG 3, KPHB Colony, Opp. AXIS Bank, Kukatpally, Hyderabad",
+            
+            "profession":"Data Scientist",
+            "mobile": "9393456533"
+        },
+        {
+            "id":"05",
+            "email":"swathi@gmail.com",
+            "name":"Swathi",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4JBIwFN38aStoEH7zhFxbsNKeFK-3q_Mig&usqp=CAU",
+            "address":"Hno. 5, Road No. 2, MIG 3, KPHB Colony, Opp. AXIS Bank, Kukatpally, Hyderabad",
+            "profession":"Vice President",
+            "mobile": "9393453444"
+        },
+        {
+            "id":"06",
+            "email":"mouni@gmail.com",
+            "name":"mouni",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZ-Ehy6c7t2ghgcutKdHyv5tlypKAQx9J2Q&usqp=CAU",
+            "address":"Hno. 6, Road No. 2, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+            "profession":"Technical asst",
+            "mobile": "9393453214"
+        },
+        {
+            "id":"07",
+            "email":"sharvari@gmail.com",
+            "name":"Shavari",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgQD5nWIK2jh6LAfeQ5pKJeRPK2Qr2D4YxQ&usqp=CAU",
+            "address":"Hno. 7, Road No. 2, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+            "profession":"Technical asst",
+            "mobile": "9443567891"
+        },
+        {
+             "id":"08",
+            "email":"prasad@gmail.com",
+            "name":"Prasad",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqNPZ0_D9TPWoZaIoGKsBwh4gAD7D1NEITw&usqp=CAU",
+            "address":"Hno. 8, Road No. 2, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+            "profession":"Asst manager",
+            "mobile": "9393456134"
+        },
+        {
+            "id":"09",
+            "email":"ganesh@gmail.com",
+            "name":"Ganesh",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4m5QZrekmFWo71Q0g0WSWb7QrnRlOpnioA&usqp=CAU",
+            "address":"Hno. 9, Road No. 2, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+            "profession":"Manager",
+            "mobile": "9786547132"
+        },
+        {
+            "id":"10",
+            "email":"mayank@gmail.com",
+            "name":"Mayank",
+            "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInH5ZWPq3qYm0do_c_WE8RQJKxOn_2HhDDA&usqp=CAU",
+            "address":"Hno. 10, Road No. 2, MIG 3, KPHB Colony, Opp. ICICI Bank, Kukatpally, Hyderabad",
+            "profession":"Asst Manager",
+            "mobile": "9393456444"
+        }
+    ]
+}

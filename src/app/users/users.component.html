@@ -1,0 +1,16 @@
+<table class="table text-white text-center">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr *ngFor="let userObj of myUsers1">
+            <td>
+                <button class="btn btn-sm btn-warning" (click)="onSelectId(userObj.id)">{{userObj.id}}</button></td>
+            <td>{{userObj.email}}</td>
+        </tr>
+    </tbody>
+</table>
